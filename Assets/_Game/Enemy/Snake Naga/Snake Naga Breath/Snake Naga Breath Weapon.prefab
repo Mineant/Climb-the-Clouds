@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5235802620809731225
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: WeaponName
+      value: Snake Naga Breath
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: RandomSpread
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: DelayBeforeUse
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: SpawnPosition.x
+      value: 300.3666
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: SpawnPosition.y
+      value: 953.45026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: SpawnPosition.z
+      value: -0.00039607915
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: TimeBetweenUses
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: StartAnimTrigger
+      value: BaseAttack2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2320631956309404954, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: BurstTimeBetweenShots
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2938483145884742658, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_Name
+      value: Snake Naga Breath Weapon
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302090742217728007, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: BasicStats
+      value: 
+      objectReference: {fileID: 11400000, guid: 8aa57f5f373a832448cfa2fd1fd5dc28,
+        type: 2}
+    - target: {fileID: 5423259701852672387, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: managedReferences[4383922721212858372].Sfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 14ea21c630883874ea8a14ef60fafd8e, type: 3}
+    - target: {fileID: 6859397638718695781, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: GameObjectToPool
+      value: 
+      objectReference: {fileID: 7272823909500189462, guid: 200905443f4f59b4f92f499e27f9f46f,
+        type: 3}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 300.3666
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 953.45026
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00039607915
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6938438963217513061, guid: d16c6dc8078ad9c48830f620a468c2bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d16c6dc8078ad9c48830f620a468c2bb, type: 3}

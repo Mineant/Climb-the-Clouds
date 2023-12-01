@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6042531222082925033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6322442051891975401}
+  - component: {fileID: 5780111797588898329}
+  - component: {fileID: 5238366623859264339}
+  - component: {fileID: 6127069592570174072}
+  m_Layer: 0
+  m_Name: _Base Skill Stat Modifier
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6322442051891975401
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042531222082925033}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.05743879, y: -2.1701317, z: 3.577779}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5780111797588898329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042531222082925033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6c6157df79f334eb2b939d8a151536, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Identity: {fileID: 0}
+  Description: 
+  UseOrConditions: 0
+  FailedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  SuccessEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5238366623859264339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042531222082925033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37171779782313749833af6f4a89f1f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Label: 
+  DebugMode: 0
+  SkillEventType: 3
+  Skills: []
+  SkillTypes: 
+  SkillBooks: []
+  SkillIndexes: 
+  CheckEmpowered: 0
+  IsEmpowered: 0
+  SetWeaponAsTarget: 1
+--- !u!114 &6127069592570174072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042531222082925033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b40012d077c2e6449e73f24805c868c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Label: 
+  DebugMode: 0
+  StatDictionaryAllInOne:
+    BaseValueStatDictionary:
+      keyData: 
+      valueData: []
+    FlatModifierStatDictionary:
+      keyData: 
+      valueData: []
+    PercentAddModifierStatDictionary:
+      keyData: 
+      valueData: []
+    PercentMultModifierStatDictionary:
+      keyData: 
+      valueData: []

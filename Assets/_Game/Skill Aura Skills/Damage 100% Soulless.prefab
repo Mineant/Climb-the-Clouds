@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3787933823954946678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6371143036114697878}
+  - component: {fileID: 5989263974146086235}
+  - component: {fileID: 1678460814533672616}
+  - component: {fileID: 7926205184782968473}
+  m_Layer: 0
+  m_Name: Damage 100% Soulless
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6371143036114697878
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787933823954946678}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5989263974146086235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787933823954946678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ec4679720c6784981700da20de5c29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Identity: {fileID: 0}
+  Description: When damage, 100% inflict Souless.
+  UseOrConditions: 0
+  FailedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  SuccessEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1678460814533672616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787933823954946678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33d87bbbf402bb42873948ddc1ca57a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Label: 
+  DebugMode: 0
+--- !u!114 &7926205184782968473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3787933823954946678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d8abe9adeb99714d918764b588a60d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Label: 
+  DebugMode: 0
+  DamageOnTouchOneTimeEffects:
+  - TargetStatusEffectData: {fileID: 11400000, guid: eb0af589aadb4eb4d8e12083ef740c47,
+      type: 2}
+    CustomChance: 0
+    Chance: 1
+    CustomDuration: 0
+    Duration: 1

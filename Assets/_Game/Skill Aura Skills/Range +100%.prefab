@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2260045559178981997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 355342734944074880}
+  - component: {fileID: 9183771660074018632}
+  - component: {fileID: 3043220923267712309}
+  - component: {fileID: 4724542997655359190}
+  m_Layer: 0
+  m_Name: Range +100%
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &355342734944074880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2260045559178981997}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9183771660074018632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2260045559178981997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ec4679720c6784981700da20de5c29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Identity: {fileID: 0}
+  Description: Range +100%.
+  UseOrConditions: 0
+  FailedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  SuccessEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &3043220923267712309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2260045559178981997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33d87bbbf402bb42873948ddc1ca57a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Label: 
+  DebugMode: 0
+--- !u!114 &4724542997655359190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2260045559178981997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b40012d077c2e6449e73f24805c868c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Label: 
+  DebugMode: 0
+  StatDictionaryAllInOne:
+    BaseValueStatDictionary:
+      keyData: 
+      valueData: []
+    FlatModifierStatDictionary:
+      keyData: 
+      valueData: []
+    PercentAddModifierStatDictionary:
+      keyData: 93010000
+      valueData:
+      - 1
+    PercentMultModifierStatDictionary:
+      keyData: 
+      valueData: []

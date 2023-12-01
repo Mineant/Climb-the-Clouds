@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc84472c441d3814484ad3675825fe17, type: 3}
+  m_Name: Lightning-Strike
+  m_EditorClassIdentifier: 
+  ID: 6c23d575-3572-4e00-bcb6-4c4378b3801a
+  Name: Lightning-Strike
+  Description: Deal 12 Damage.
+  ApplyParticle: {fileID: 19884342, guid: 5e8a137808d7d374487f34e236c723db, type: 3}
+  RunningParticle: {fileID: 0}
+  Type:
+    MaxStacks: 1
+    HasDuration: 1
+    Duration: 0
+    Damage: 12
+    Interval: 1
+    UseDamageModifierStat: 1
+    DamageModifierStat: 351

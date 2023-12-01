@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sun Blossom Animator
+  m_Controller: {fileID: 9100000, guid: 254f7c715fb7cac4ea4c65722dce979e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 21dc42bbaef1da24c92a468716921fa0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6abc358fa32d2cd46b648d0d4cb09c5f, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 37334a6cbf39c4844ad91a38db1861a8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e662e05ea3621224e9c7054082390015, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b61392aaa657a854d90a9087ec06455f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6de52a6e886408c4a98b6055226dd405, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f467f8d362528f84b92df68ad901c686, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4f6ecdd8ef9d43740a6a7afb75c7a9b9, type: 3}

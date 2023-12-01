@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &57200884129081919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8166063959946160309}
+    m_Modifications:
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793405089526570120, guid: 3b6e91cefdb4b4040a657402121171f2,
+        type: 3}
+      propertyPath: m_Name
+      value: Damage +50%
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3b6e91cefdb4b4040a657402121171f2, type: 3}
+--- !u!4 &7093841379655984127 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7113810273441843648, guid: 3b6e91cefdb4b4040a657402121171f2,
+    type: 3}
+  m_PrefabInstance: {fileID: 57200884129081919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1382918169963468108
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 281918012539469109, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: GameObjectToPool
+      value: 
+      objectReference: {fileID: 6688176486162233153, guid: d0e113f4be4fd7346996489a76c16675,
+        type: 3}
+    - target: {fileID: 1701132264279590355, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: managedReferences[4383922721212858372].Sfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 534aaf9828948ec4f8129467301f47f6, type: 3}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364729414157004341, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8145755224443171927, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: BasicStats
+      value: 
+      objectReference: {fileID: 11400000, guid: c98565eeea61bb04cbf679f0570e38e1,
+        type: 2}
+    - target: {fileID: 8367545055801991250, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: m_Name
+      value: Dragon Scale Blade Slash Weapon
+      objectReference: {fileID: 0}
+    - target: {fileID: 9001676713045014858, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: WeaponName
+      value: Dragon Scale Blade Slash
+      objectReference: {fileID: 0}
+    - target: {fileID: 9001676713045014858, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: DelayBeforeUse
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9001676713045014858, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: StartAnimTrigger
+      value: BladeAttack3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9001676713045014858, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      propertyPath: WeaponAnimationID
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 7089425955242835449, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 438110042405716446}
+    - targetCorrespondingSourceObject: {fileID: 7089425955242835449, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7093841379655984127}
+    - targetCorrespondingSourceObject: {fileID: 7089425955242835449, guid: 934b468c17c4da8429dc51c963982ea9,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3221364291712280796}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 934b468c17c4da8429dc51c963982ea9, type: 3}
+--- !u!4 &8166063959946160309 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7089425955242835449, guid: 934b468c17c4da8429dc51c963982ea9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1382918169963468108}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1547460198904434551
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8166063959946160309}
+    m_Modifications:
+    - target: {fileID: 132105788905876906, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_Name
+      value: Damage 50% Fear
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb3aefbbc154ffd4fb269d5b9acf90db, type: 3}
+--- !u!4 &438110042405716446 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1400008263186960041, guid: eb3aefbbc154ffd4fb269d5b9acf90db,
+    type: 3}
+  m_PrefabInstance: {fileID: 1547460198904434551}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8172248319077215703
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8166063959946160309}
+    m_Modifications:
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6923072659943640158, guid: 851051ca6da793c4ca57f3b357c1c669,
+        type: 3}
+      propertyPath: m_Name
+      value: Get Dragon Scale Possession
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 851051ca6da793c4ca57f3b357c1c669, type: 3}
+--- !u!4 &3221364291712280796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6763629617396974859, guid: 851051ca6da793c4ca57f3b357c1c669,
+    type: 3}
+  m_PrefabInstance: {fileID: 8172248319077215703}
+  m_PrefabAsset: {fileID: 0}

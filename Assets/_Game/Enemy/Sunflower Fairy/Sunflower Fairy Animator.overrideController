@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sunflower Fairy Animator
+  m_Controller: {fileID: 9100000, guid: 254f7c715fb7cac4ea4c65722dce979e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 21dc42bbaef1da24c92a468716921fa0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b19a15e30fcf6c84b99be2d8515c6dfe, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f467f8d362528f84b92df68ad901c686, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2a8db8698852e3041828005d9c90525c, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 37334a6cbf39c4844ad91a38db1861a8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 33257f4fa2a2e63478a510c193368f27, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b61392aaa657a854d90a9087ec06455f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d9da34afcce88fd44910d37498401611, type: 3}

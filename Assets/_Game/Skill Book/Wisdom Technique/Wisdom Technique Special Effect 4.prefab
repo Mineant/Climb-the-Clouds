@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8990824197577818180
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1070581654988315051}
+    m_Modifications:
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.05743879
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.1701317
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.5777793
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7807897967644611356, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: m_Name
+      value: Aura Regen +3.5 Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8588981609185864102, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: SkillTypes.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8588981609185864102, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+        type: 3}
+      propertyPath: SkillTypes.Array.data[0]
+      value: 102
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5ddf7bb4cdc90c44ebf74517c953240a, type: 3}
+--- !u!4 &1511057182145754712 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7511309805580285468, guid: 5ddf7bb4cdc90c44ebf74517c953240a,
+    type: 3}
+  m_PrefabInstance: {fileID: 8990824197577818180}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9000733110182169920
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 676203817748809345, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_Name
+      value: Wisdom Technique Special Effect 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.24372628
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.14724778
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.3738208
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1511057182145754712}
+    - targetCorrespondingSourceObject: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 296373154894866670}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30470b4975739794fa180f650f81501b, type: 3}
+--- !u!4 &1070581654988315051 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8228779402249475307, guid: 30470b4975739794fa180f650f81501b,
+    type: 3}
+  m_PrefabInstance: {fileID: 9000733110182169920}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9137036422152472176
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1070581654988315051}
+    m_Modifications:
+    - target: {fileID: 7340325178664792356, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: SkillTypes.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340325178664792356, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: SkillTypes.Array.data[0]
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.05743879
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.1701317
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.5777793
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9130795678878583710, guid: 114e2d21411bd234699d665272f7d89e,
+        type: 3}
+      propertyPath: m_Name
+      value: Aura Skill Damage x2 Variant (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 114e2d21411bd234699d665272f7d89e, type: 3}
+--- !u!4 &296373154894866670 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8850043752061611678, guid: 114e2d21411bd234699d665272f7d89e,
+    type: 3}
+  m_PrefabInstance: {fileID: 9137036422152472176}
+  m_PrefabAsset: {fileID: 0}

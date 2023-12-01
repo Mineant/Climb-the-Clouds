@@ -1,0 +1,19 @@
+# Ignore everything
+/*
+
+# But not these files...
+!/.gitignore
+!/Assets/
+!/Assets/_Scripts/
+!/Assets/_Scripts/**
+!/Assets/_Game/
+!/Assets/_Game/**
+
+# Ignore all other directories in /Assets
+/Assets/*
+!/Assets/_Scripts
+!/Assets/_Game
+
+# Don't ignore .meta files in _Scripts and _Game
+!/Assets/_Scripts/**/*.meta
+!/Assets/_Game/**/*.meta

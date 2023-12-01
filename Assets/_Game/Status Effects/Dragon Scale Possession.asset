@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b7173bc35676aa468aade73390d61f1, type: 3}
+  m_Name: Dragon Scale Possession
+  m_EditorClassIdentifier: 
+  ID: e3d3d055-b392-484a-be58-8f7c6798b9be
+  Name: Dragon Scale Possession
+  Description: Damage Received -50%.
+  ApplyParticle: {fileID: 0}
+  RunningParticle: {fileID: 1964014021000228439, guid: 7c0068864ee619d4a8c2aeaaa76bbc2c,
+    type: 3}
+  Type:
+    MaxStacks: 1
+    HasDuration: 1
+    Duration: 10
+    StatModifiers:
+      BaseValueStatDictionary:
+        keyData: 
+        valueData: []
+      FlatModifierStatDictionary:
+        keyData: 
+        valueData: []
+      PercentAddModifierStatDictionary:
+        keyData: 
+        valueData: []
+      PercentMultModifierStatDictionary:
+        keyData: fa000000
+        valueData:
+        - -0.5

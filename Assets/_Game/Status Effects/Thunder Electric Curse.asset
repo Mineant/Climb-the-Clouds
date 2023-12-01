@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b633600a55c75e6418d0e3c1172ea318, type: 3}
+  m_Name: Thunder Electric Curse
+  m_EditorClassIdentifier: 
+  ID: 1a710c9d-350f-44bc-bd8d-d9c9084732a5
+  Name: Thunder Electric Curse
+  Description: Have 50% chance to apply Lightning-Strike when being damaged.
+  ApplyParticle: {fileID: 0}
+  RunningParticle: {fileID: 19873900, guid: 992c31aa5088a9649851c996f2a08b7e, type: 3}
+  Type:
+    MaxStacks: 1
+    HasDuration: 1
+    Duration: 10
+    ApplyStatusEffectField:
+      TargetStatusEffectData: {fileID: 11400000, guid: 2daf424af65f32a43992fe41264affe1,
+        type: 2}
+      CustomChance: 1
+      Chance: 0.5
+      CustomDuration: 0
+      Duration: 1
+      CustomPotency: 0
+      Potency: 0
